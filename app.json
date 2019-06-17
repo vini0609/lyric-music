@@ -1,0 +1,29 @@
+{
+  "expo": {
+    "name": "Lyrics Music",
+    "slug": "lyrics-music",
+    "privacy": "public",
+    "sdkVersion": "32.0.0",
+    "platforms": [
+      "ios", 
+      "android"
+    ],
+    "orientation": "portrait",
+    "icon": "./assets/images/icon.png",
+    "primaryColor": "#07CCBA",
+    "splash": {
+      "backgroundColor": "#191919 ",
+      "image": "./assets/images/splash.png",
+      "resizeMode": "contain"
+    },
+     "updates": {
+       "fallbackToCacheTimeout": 0
+     },
+     "assetBundlePatterns": [
+       "**/*"
+     ],
+     "ios": {
+       "supportsTablet": true
+     }
+  }
+}
